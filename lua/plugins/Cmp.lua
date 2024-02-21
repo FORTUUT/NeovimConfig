@@ -1,4 +1,4 @@
--- TODO see document to know inforamtion
+-- TODO see document to know inforamtion about cmp
 -- TODO what is snip
 return {
     {
